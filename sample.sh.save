@@ -1,0 +1,2 @@
+#!/bin/bash
+PH=$(curl -sL http://169.254
